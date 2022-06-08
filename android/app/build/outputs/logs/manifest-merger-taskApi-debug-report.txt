@@ -1,0 +1,215 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml:2:1-34:12
+MERGED from [com.google.android.material:material:1.4.0] /Users/bookwarm/.gradle/caches/transforms-3/5cb79f746d0905d4dd9f6f7e8bc4310f/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/b5007f8888e0281b14b557857baf3b53/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/bookwarm/.gradle/caches/transforms-3/4df986a7b4faad9a24afa6ed30acbe80/transformed/recyclerview-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/bookwarm/.gradle/caches/transforms-3/972a824d2286f9aa21904c11fe3303e0/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/bookwarm/.gradle/caches/transforms-3/9fc85c980342dc325d88fa44f53d331c/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:lib_task_api] /Users/bookwarm/Programming/Android/risenetwork/lib_task_api/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/bookwarm/.gradle/caches/transforms-3/ee4fe6e928c8715c53ed01500e55421e/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/bookwarm/.gradle/caches/transforms-3/296689024c9f376cc3a9963da2b29ba5/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/9544bb03fa0da69dc8fc12201dd20039/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/a037b36e75dc2ffbb94fc8ffdcf989d3/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/66eadb3b183edd836361801f96797d1e/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/b1ce97944cb8bcce2d1f2b84f76172b3/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/bookwarm/.gradle/caches/transforms-3/b974cb7a29804852745341629ce04996/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/bookwarm/.gradle/caches/transforms-3/224d49cb92a914f6ac53626f928ef299/transformed/appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/bookwarm/.gradle/caches/transforms-3/61f25d5b6f573a5c0a25ecdc00fa91a2/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/bookwarm/.gradle/caches/transforms-3/faa414959493ba1f3997d2023681fa2a/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/185eead3212bdc829f45c9cc8990b4ce/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/0e88de4e770b16f9b8d0968d0780e3e5/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/bed71143b200448d4d53a2da4ba2a77d/transformed/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.5.0] /Users/bookwarm/.gradle/caches/transforms-3/b4039227ab3303487439a79ebfd9d6df/transformed/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/9bd56841e9a345c72288982c1439b681/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/bookwarm/.gradle/caches/transforms-3/2d914d44eda7c1d4de154d194201fe4a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/a0977f3590487e92d878e7674c5460b7/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/d3c112f3fd7b115a6c9683270ed2f0a9/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/ec67cae82dd25dd5d07ef906156f2dd4/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/22acf790b3d3eec70b73f82d66f1efb1/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/bookwarm/.gradle/caches/transforms-3/a1234a5d0517a8b8b8f76375262073de/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/bookwarm/.gradle/caches/transforms-3/d3be179e4d30e53c066f3969f1846b34/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/71bfa758b3a92a8973a0836bf598a7d1/transformed/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/bookwarm/.gradle/caches/transforms-3/c0d127b58da845d425304aa990b97366/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/bookwarm/.gradle/caches/transforms-3/4c2bb5ab1871ff5ef9dbe93104ae9c9d/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/bookwarm/.gradle/caches/transforms-3/615fc10a4e2f4a34e3fbcd5c55d647c0/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/bbf793752d6017439ca01a1ba2edbd2f/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/03131636a23c64d0735e271dd7a4b527/transformed/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [org.tensorflow:tensorflow-lite-task-text:0.3.0] /Users/bookwarm/.gradle/caches/transforms-3/8a596e13f94c5908c23bc4766c403512/transformed/tensorflow-lite-task-text-0.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.3.0] /Users/bookwarm/.gradle/caches/transforms-3/444e14179a70c964b170407206cc197b/transformed/tensorflow-lite-task-base-0.3.0/AndroidManifest.xml:2:1-6:12
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.3.0] /Users/bookwarm/.gradle/caches/transforms-3/bc8cf965789def53f8627e2442a97b43/transformed/tensorflow-lite-support-api-0.3.0/AndroidManifest.xml:2:1-5:12
+MERGED from [org.tensorflow:tensorflow-lite-api:2.7.0] /Users/bookwarm/.gradle/caches/transforms-3/b7bde9199cd79b20cb49df760c314fd6/transformed/tensorflow-lite-api-2.7.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/bookwarm/.gradle/caches/transforms-3/1b9927c71717130226b9d1b1360f4846/transformed/image-1.0.0-beta1/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml:3:5-62
+		INJECTED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml:5:5-32:19
+MERGED from [com.google.android.material:material:1.4.0] /Users/bookwarm/.gradle/caches/transforms-3/5cb79f746d0905d4dd9f6f7e8bc4310f/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/bookwarm/.gradle/caches/transforms-3/5cb79f746d0905d4dd9f6f7e8bc4310f/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/bookwarm/.gradle/caches/transforms-3/972a824d2286f9aa21904c11fe3303e0/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/bookwarm/.gradle/caches/transforms-3/972a824d2286f9aa21904c11fe3303e0/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.5.0] /Users/bookwarm/.gradle/caches/transforms-3/b4039227ab3303487439a79ebfd9d6df/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /Users/bookwarm/.gradle/caches/transforms-3/b4039227ab3303487439a79ebfd9d6df/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/bookwarm/.gradle/caches/transforms-3/2d914d44eda7c1d4de154d194201fe4a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/bookwarm/.gradle/caches/transforms-3/2d914d44eda7c1d4de154d194201fe4a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.3.0] /Users/bookwarm/.gradle/caches/transforms-3/444e14179a70c964b170407206cc197b/transformed/tensorflow-lite-task-base-0.3.0/AndroidManifest.xml:4:4-5:18
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.3.0] /Users/bookwarm/.gradle/caches/transforms-3/444e14179a70c964b170407206cc197b/transformed/tensorflow-lite-task-base-0.3.0/AndroidManifest.xml:4:4-5:18
+MERGED from [org.tensorflow:tensorflow-lite-api:2.7.0] /Users/bookwarm/.gradle/caches/transforms-3/b7bde9199cd79b20cb49df760c314fd6/transformed/tensorflow-lite-api-2.7.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-api:2.7.0] /Users/bookwarm/.gradle/caches/transforms-3/b7bde9199cd79b20cb49df760c314fd6/transformed/tensorflow-lite-api-2.7.0/AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/bookwarm/.gradle/caches/transforms-3/1b9927c71717130226b9d1b1360f4846/transformed/image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/bookwarm/.gradle/caches/transforms-3/1b9927c71717130226b9d1b1360f4846/transformed/image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /Users/bookwarm/.gradle/caches/transforms-3/b4039227ab3303487439a79ebfd9d6df/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml:8:9-48
+	android:roundIcon
+		ADDED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml:11:9-59
+activity#org.tensorflow.lite.examples.textclassification.SplashScreen
+ADDED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:noHistory
+		ADDED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml:14:13-37
+	android:exported
+		ADDED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml:15:13-36
+	android:name
+		ADDED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml:19:27-74
+activity#org.tensorflow.lite.examples.textclassification.MainActivity
+ADDED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml:22:9-31:20
+	android:windowSoftInputMode
+		ADDED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml:25:13-55
+	android:exported
+		ADDED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml:24:13-36
+	android:name
+		ADDED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml:23:13-41
+uses-sdk
+INJECTED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml
+INJECTED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.4.0] /Users/bookwarm/.gradle/caches/transforms-3/5cb79f746d0905d4dd9f6f7e8bc4310f/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/bookwarm/.gradle/caches/transforms-3/5cb79f746d0905d4dd9f6f7e8bc4310f/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/b5007f8888e0281b14b557857baf3b53/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/b5007f8888e0281b14b557857baf3b53/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/bookwarm/.gradle/caches/transforms-3/4df986a7b4faad9a24afa6ed30acbe80/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/bookwarm/.gradle/caches/transforms-3/4df986a7b4faad9a24afa6ed30acbe80/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/bookwarm/.gradle/caches/transforms-3/972a824d2286f9aa21904c11fe3303e0/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/bookwarm/.gradle/caches/transforms-3/972a824d2286f9aa21904c11fe3303e0/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/bookwarm/.gradle/caches/transforms-3/9fc85c980342dc325d88fa44f53d331c/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/bookwarm/.gradle/caches/transforms-3/9fc85c980342dc325d88fa44f53d331c/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:lib_task_api] /Users/bookwarm/Programming/Android/risenetwork/lib_task_api/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:lib_task_api] /Users/bookwarm/Programming/Android/risenetwork/lib_task_api/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/bookwarm/.gradle/caches/transforms-3/ee4fe6e928c8715c53ed01500e55421e/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/bookwarm/.gradle/caches/transforms-3/ee4fe6e928c8715c53ed01500e55421e/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/bookwarm/.gradle/caches/transforms-3/296689024c9f376cc3a9963da2b29ba5/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/bookwarm/.gradle/caches/transforms-3/296689024c9f376cc3a9963da2b29ba5/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/9544bb03fa0da69dc8fc12201dd20039/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/9544bb03fa0da69dc8fc12201dd20039/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/a037b36e75dc2ffbb94fc8ffdcf989d3/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/a037b36e75dc2ffbb94fc8ffdcf989d3/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/66eadb3b183edd836361801f96797d1e/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/66eadb3b183edd836361801f96797d1e/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/b1ce97944cb8bcce2d1f2b84f76172b3/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/b1ce97944cb8bcce2d1f2b84f76172b3/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/bookwarm/.gradle/caches/transforms-3/b974cb7a29804852745341629ce04996/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/bookwarm/.gradle/caches/transforms-3/b974cb7a29804852745341629ce04996/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/bookwarm/.gradle/caches/transforms-3/224d49cb92a914f6ac53626f928ef299/transformed/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/bookwarm/.gradle/caches/transforms-3/224d49cb92a914f6ac53626f928ef299/transformed/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/bookwarm/.gradle/caches/transforms-3/61f25d5b6f573a5c0a25ecdc00fa91a2/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/bookwarm/.gradle/caches/transforms-3/61f25d5b6f573a5c0a25ecdc00fa91a2/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/bookwarm/.gradle/caches/transforms-3/faa414959493ba1f3997d2023681fa2a/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/bookwarm/.gradle/caches/transforms-3/faa414959493ba1f3997d2023681fa2a/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/185eead3212bdc829f45c9cc8990b4ce/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/185eead3212bdc829f45c9cc8990b4ce/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/0e88de4e770b16f9b8d0968d0780e3e5/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/0e88de4e770b16f9b8d0968d0780e3e5/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/bed71143b200448d4d53a2da4ba2a77d/transformed/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/bed71143b200448d4d53a2da4ba2a77d/transformed/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/bookwarm/.gradle/caches/transforms-3/b4039227ab3303487439a79ebfd9d6df/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/bookwarm/.gradle/caches/transforms-3/b4039227ab3303487439a79ebfd9d6df/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/9bd56841e9a345c72288982c1439b681/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/9bd56841e9a345c72288982c1439b681/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/bookwarm/.gradle/caches/transforms-3/2d914d44eda7c1d4de154d194201fe4a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/bookwarm/.gradle/caches/transforms-3/2d914d44eda7c1d4de154d194201fe4a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/a0977f3590487e92d878e7674c5460b7/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/a0977f3590487e92d878e7674c5460b7/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/d3c112f3fd7b115a6c9683270ed2f0a9/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/d3c112f3fd7b115a6c9683270ed2f0a9/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/ec67cae82dd25dd5d07ef906156f2dd4/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/ec67cae82dd25dd5d07ef906156f2dd4/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/22acf790b3d3eec70b73f82d66f1efb1/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/22acf790b3d3eec70b73f82d66f1efb1/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/bookwarm/.gradle/caches/transforms-3/a1234a5d0517a8b8b8f76375262073de/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/bookwarm/.gradle/caches/transforms-3/a1234a5d0517a8b8b8f76375262073de/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/bookwarm/.gradle/caches/transforms-3/d3be179e4d30e53c066f3969f1846b34/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/bookwarm/.gradle/caches/transforms-3/d3be179e4d30e53c066f3969f1846b34/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/71bfa758b3a92a8973a0836bf598a7d1/transformed/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/71bfa758b3a92a8973a0836bf598a7d1/transformed/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/bookwarm/.gradle/caches/transforms-3/c0d127b58da845d425304aa990b97366/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/bookwarm/.gradle/caches/transforms-3/c0d127b58da845d425304aa990b97366/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/bookwarm/.gradle/caches/transforms-3/4c2bb5ab1871ff5ef9dbe93104ae9c9d/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/bookwarm/.gradle/caches/transforms-3/4c2bb5ab1871ff5ef9dbe93104ae9c9d/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/bookwarm/.gradle/caches/transforms-3/615fc10a4e2f4a34e3fbcd5c55d647c0/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/bookwarm/.gradle/caches/transforms-3/615fc10a4e2f4a34e3fbcd5c55d647c0/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/bbf793752d6017439ca01a1ba2edbd2f/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/bbf793752d6017439ca01a1ba2edbd2f/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/03131636a23c64d0735e271dd7a4b527/transformed/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/bookwarm/.gradle/caches/transforms-3/03131636a23c64d0735e271dd7a4b527/transformed/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [org.tensorflow:tensorflow-lite-task-text:0.3.0] /Users/bookwarm/.gradle/caches/transforms-3/8a596e13f94c5908c23bc4766c403512/transformed/tensorflow-lite-task-text-0.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite-task-text:0.3.0] /Users/bookwarm/.gradle/caches/transforms-3/8a596e13f94c5908c23bc4766c403512/transformed/tensorflow-lite-task-text-0.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.3.0] /Users/bookwarm/.gradle/caches/transforms-3/bc8cf965789def53f8627e2442a97b43/transformed/tensorflow-lite-support-api-0.3.0/AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.3.0] /Users/bookwarm/.gradle/caches/transforms-3/bc8cf965789def53f8627e2442a97b43/transformed/tensorflow-lite-support-api-0.3.0/AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-api:2.7.0] /Users/bookwarm/.gradle/caches/transforms-3/b7bde9199cd79b20cb49df760c314fd6/transformed/tensorflow-lite-api-2.7.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-api:2.7.0] /Users/bookwarm/.gradle/caches/transforms-3/b7bde9199cd79b20cb49df760c314fd6/transformed/tensorflow-lite-api-2.7.0/AndroidManifest.xml:7:5-8:41
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/bookwarm/.gradle/caches/transforms-3/1b9927c71717130226b9d1b1360f4846/transformed/image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/bookwarm/.gradle/caches/transforms-3/1b9927c71717130226b9d1b1360f4846/transformed/image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+INJECTED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml
+INJECTED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml
+		MERGED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml:2:1-34:12 reason: src.java.org.tensorflow.lite.task.core has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml:2:1-34:12 reason: src.java.org.tensorflow.lite.task.core has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/bookwarm/Programming/Android/risenetwork/app/src/main/AndroidManifest.xml:2:1-34:12 reason: src.java.org.tensorflow.lite.task.core requested WRITE_EXTERNAL_STORAGE

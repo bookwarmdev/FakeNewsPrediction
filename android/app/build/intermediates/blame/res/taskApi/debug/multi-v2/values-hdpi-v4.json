@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\PASSNOWNOW\\Desktop\\AI Projects\\examples\\lite\\examples\\text_classification\\android\\app\\build\\intermediates\\incremental\\mergeTaskApiDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\PASSNOWNOW\\.gradle\\caches\\transforms-3\\442d6dd6a60ab8bce469c4cd11ad749e\\transformed\\appcompat-1.1.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
